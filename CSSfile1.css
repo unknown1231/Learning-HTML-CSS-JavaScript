@@ -1,0 +1,25 @@
+/* for CSSlearning3 file */
+
+.something
+{
+  color: yellow;
+  background-color: orange;
+  text-decoration: none;
+}
+
+h1
+{
+  color: red;
+  background:orange;
+}
+
+span
+{
+  color: red;
+}
+
+.something span
+{
+  color: inherit;
+  background-color: black;
+}

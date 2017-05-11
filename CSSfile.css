@@ -1,0 +1,6 @@
+/* css file which will be linked to html */
+
+p#something
+{
+  color:orange ; background-color: : black;
+}
